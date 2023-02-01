@@ -1,0 +1,64 @@
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\appsettings.json
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\Project Assignment.staticwebassets.runtime.json
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\app.db
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\Project Assignment.exe
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\Project Assignment.deps.json
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\Project Assignment.runtimeconfig.json
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\Project Assignment.dll
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\Project Assignment.pdb
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Eleanor\Desktop\Project Assignment\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Eleanor\Desktop\Project Assignment\obj\Debug\net6.0\Project Assignment.csproj.AssemblyReference.cache
+C:\Users\Eleanor\Desktop\Project Assignment\obj\Debug\net6.0\Project Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eleanor\Desktop\Project Assignment\obj\Debug\net6.0\Project Assignment.AssemblyInfoInputs.cache
+C:\Users\Eleanor\Desktop\Project Assignment\obj\Debug\net6.0\Project Assignment.AssemblyInfo.cs
+C:\Users\Eleanor\Desktop\Project Assignment\obj\Debug\net6.0\Project Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Eleanor\Desktop\Project Assignment\obj\Debug\net6.0\Project Assignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Eleanor\Desktop\Project Assignment\obj\Debug\net6.0\Project Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eleanor\Desktop\Project Assignment\obj\Debug\net6.0\Project Assignment.RazorAssemblyInfo.cache
+C:\Users\Eleanor\Desktop\Project Assignment\obj\Debug\net6.0\Project Assignment.RazorAssemblyInfo.cs
+C:\Users\Eleanor\Desktop\Project Assignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Eleanor\Desktop\Project Assignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Eleanor\Desktop\Project Assignment\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Eleanor\Desktop\Project Assignment\obj\Debug\net6.0\scopedcss\bundle\Project Assignment.styles.css
+C:\Users\Eleanor\Desktop\Project Assignment\obj\Debug\net6.0\scopedcss\projectbundle\Project Assignment.bundle.scp.css
+C:\Users\Eleanor\Desktop\Project Assignment\obj\Debug\net6.0\Project Assignment.csproj.CopyComplete
+C:\Users\Eleanor\Desktop\Project Assignment\obj\Debug\net6.0\Project Assignment.dll
+C:\Users\Eleanor\Desktop\Project Assignment\obj\Debug\net6.0\refint\Project Assignment.dll
+C:\Users\Eleanor\Desktop\Project Assignment\obj\Debug\net6.0\Project Assignment.pdb
+C:\Users\Eleanor\Desktop\Project Assignment\obj\Debug\net6.0\Project Assignment.genruntimeconfig.cache
+C:\Users\Eleanor\Desktop\Project Assignment\obj\Debug\net6.0\ref\Project Assignment.dll

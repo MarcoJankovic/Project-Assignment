@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("/Img/6g.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+header {
+background-color:rgb(57, 55, 55);
+}
+
+a {
+    font-family: Monaco;
+    font-size: 1.3rem;
+    color:white;
+}
+
+    a:active {
+        color: red;
+    }
+
+    .content {
+        color: white;
+        text-align: center;
+    }
+
+
+    footer {
+        display: flex;
+        justify-content: center;
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        background: #191919 !important;
+        text-align:center;
+    }
+    
